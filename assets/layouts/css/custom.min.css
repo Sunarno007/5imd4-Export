@@ -1,0 +1,20 @@
+.modal .modal-header {
+    background: #373e47;
+	color : #FFF;
+}
+
+.modal .modal-footer {
+    background: #373e47;
+	color : #FFF;
+}
+
+table.dataTable tbody td {
+  vertical-align: middle;
+}
+
+.auto-height {
+    position: relative;
+    overflow-y: auto !important;
+    max-height: 100%;
+    padding: 15px;
+}
