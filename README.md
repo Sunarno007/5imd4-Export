@@ -1,6 +1,6 @@
-## About 51mD4 Exp0rt3R
+## Tentang 5imd4 Export
 
-Merupakan aplikasi untuk memudahkan Pemerintah Daerah mengupload file csv dari Aplikasi Simda, senjatanya :
+Merupakan aplikasi untuk memudahkan Pemerintah Daerah mengupload file csv dari Aplikasi Simda dedikasi Almarhum Harley Hamid, senjatanya :
 
 - File Backup Simda yang berekstensi .bak.
 - Aplikasi SQL Server Manajemen Studio 2008 - R2.
